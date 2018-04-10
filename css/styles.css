@@ -1,3 +1,8 @@
+.whole{
+    background-color: #c7ddef;
+}
+
+
 #show-contact {
     display: none;
 }
@@ -8,5 +13,18 @@
 }
 
 .contact:hover {
-    text-decoration: underline;
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.displayContact{
+    background-color: #2e6da4;
+    width: 30%;
+    height: auto;
+    color: whitesmoke;
+    border: double whitesmoke 5px;
+}
+
+.awesomeFont{
+    font-size: 36px;
 }
